@@ -1,0 +1,98 @@
+commit 58f403cc8ea5c2d82b8fdaa676e9f11840b793e0
+Author: mmonge05 <mmonge05@gmail.com>
+Date:   Thu May 2 11:34:27 2024 -0600
+
+    Agregando 2 parrafos
+
+commit 1d9811d936e0c3f465c6e422e861feeccec4679e
+Merge: fa7da2c 138e45e
+Author: mmonge05 <mmonge05@gmail.com>
+Date:   Thu May 2 11:31:18 2024 -0600
+
+    Resolviendo conflictos con  estaciones del año con fechas
+
+commit fa7da2c62b2f781658ba09927c05961b314928ae
+Author: mmonge05 <mmonge05@gmail.com>
+Date:   Thu May 2 10:58:44 2024 -0600
+
+    Agreganco estaciones del año con fechas de inicio
+
+commit 138e45ebf4f3424a12a704b890ad86a3654de82c
+Author: mmonge05 <mmonge05@gmail.com>
+Date:   Thu May 2 10:58:44 2024 -0600
+
+    Agregando estaciones del año
+
+commit 6a6c32aa33ef971124ed7b8a7281ef8ba4a8a54a
+Merge: dff95ec 3a96526
+Author: mmonge05 <mmonge05@gmail.com>
+Date:   Thu May 2 10:50:47 2024 -0600
+
+    Resolviendo conflicto merge main/html en el doc index.html
+
+commit 3a9652662f614788ea17af13841f006fbee6cf85
+Author: mmonge05 <mmonge05@gmail.com>
+Date:   Thu May 2 10:43:13 2024 -0600
+
+    Agregando index.js al index.html
+
+commit dff95eca772563f1ebb50054be508f2b4c26804a
+Author: mmonge05 <mmonge05@gmail.com>
+Date:   Thu May 2 10:39:31 2024 -0600
+
+    Agregando style.css al index
+
+commit 7a88892879a8c47e186bd3a5c046b51360d79371
+Merge: 9ef9cac 2d4b501
+Author: mmonge05 <mmonge05@gmail.com>
+Date:   Thu May 2 10:14:48 2024 -0600
+
+    Merge branch 'js'
+
+commit 2d4b501e1f6c3befc32562c39490f288ba20be9d
+Author: mmonge05 <mmonge05@gmail.com>
+Date:   Tue Apr 30 13:41:16 2024 -0600
+
+    Creando index.js
+
+commit 9ef9cac232bc3014177c9dda040b6c33c4372739
+Author: mmonge05 <mmonge05@gmail.com>
+Date:   Tue Apr 30 13:36:44 2024 -0600
+
+    Creando style.css
+
+commit dea820f299ef281cfc3208bc0a8f105918f7a63f
+Author: mmonge05 <mmonge05@gmail.com>
+Date:   Tue Apr 30 13:32:53 2024 -0600
+
+    Creando index.html
+
+commit 212e7ca6ce4af9c0d7650004510aa4f22ba99d7c
+Author: mmonge05 <mmonge05@gmail.com>
+Date:   Tue Apr 30 13:13:00 2024 -0600
+
+    Ignorar files .exe
+
+commit cf8ea142f7d5ad63c4a51ec6f04bb30612ab5908
+Author: mmonge <115380060+mmongeTest@users.noreply.github.com>
+Date:   Tue Apr 30 12:45:53 2024 -0600
+
+    Create LICENSE del repo
+
+commit 682eae8313884b105626bf1519b73175caa1f059
+Author: mmonge05 <mmonge05@gmail.com>
+Date:   Tue Apr 30 12:38:51 2024 -0600
+
+    Agregando mas contenido al README
+
+commit c22430e596ec797526c72ae5d9489484c24293b3
+Author: mmonge05 <mmonge05@gmail.com>
+Date:   Tue Apr 30 12:22:40 2024 -0600
+
+    Agregando contenido inicial al README
+
+commit 470c7a64cbd23d7cdab0437ed2b64a61801b0590
+Author: mmonge05 <mmonge05@gmail.com>
+Date:   Tue Apr 30 12:21:00 2024 -0600
+
+    Primer commit
